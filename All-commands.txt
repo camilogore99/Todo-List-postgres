@@ -1,0 +1,21 @@
+
+// == iniciar un proyecto == //
+
+-->   npm init --yes    <----
+
+// == Dependencias a instalar == //
+
+// == SI SALE UN ERROR DE SEQUELIZE == //
+-->   npm i sequelize-cli -g     <----
+// == SI SALE UN ERROR DE SEQUELIZE == //
+
+-->   npm i express sequelize pg pg-hstore    <----
+
+-->   npm i nodemon --save-dev    <----
+
+-->   npm i ejs    <----
+
+
+// == Agregar todo las depenendencias de sequelize a mi proyecto == //
+
+-->   sequelize init    <----
